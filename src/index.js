@@ -117,7 +117,7 @@ export default class JsTabs {
   }
 
   _scrollToTab (tab) {
-    tab.scrollIntoView({ behavior: 'smooth' })
+    // tab.scrollIntoView({ behavior: 'smooth' })
   }
 
   _repositionMarker (tab) {
